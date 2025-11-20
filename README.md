@@ -1,4 +1,4 @@
-# 📊 Device Activation Failure Analysis  
+# Device Activation Failure Analysis  
 ### *Mock Independent Data Analysis Project • SQL • Snowflake • Excel Visualization*
 
 This project simulates a real-world Business Systems Analyst workflow by analyzing **3,000 POS device activation attempts** to identify patterns, root causes, and high-impact opportunities for product and engineering teams.
@@ -7,7 +7,7 @@ Using **Snowflake**, **SQL**, **Python**, and a visual **Excel spreadsheet**, th
 
 ---
 
-# 🧭 Project Overview
+# Project Overview
 
 The purpose of this project is to replicate an end-to-end Data Analysis-style investigation:
 
