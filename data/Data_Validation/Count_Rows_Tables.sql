@@ -1,0 +1,8 @@
+SELECT 'locations' AS table_name, COUNT(*) AS row_count
+FROM LOCATIONS
+UNION ALL
+SELECT 'devices', COUNT(*)
+FROM DEVICES
+UNION ALL
+SELECT 'activations', COUNT(*)
+FROM ACTIVATIONS;
