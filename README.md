@@ -24,3 +24,7 @@ The purpose of this project is to replicate an end-to-end Data Analysis-style in
 - Root Cause Analysis  
 - Excel Visualization
 - Business Communication & Insight Delivery
+
+---
+
+**Please view Insights Report PDF file and Excel Visualization worksheet to read about the key findings of the project.**
